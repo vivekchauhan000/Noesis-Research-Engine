@@ -1,4 +1,4 @@
-# Contributing to GPT Researcher
+# Contributing to Noesis-Research-Engine
 
 First off, we'd like to welcome you and thank you for your interest and effort in contributing to our open-source project ❤️. Contributions of all forms are welcome—from new features and bug fixes to documentation and more.
 
